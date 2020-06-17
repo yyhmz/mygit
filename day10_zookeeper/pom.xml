@@ -30,7 +30,7 @@
         <dependency>
             <groupId>org.apache.zookeeper</groupId>
             <artifactId>zookeeper</artifactId>
-            <version>3.4.7</version>
+            <version>3.4.14</version>
         </dependency>
         <!-- zookeeper CuratorFramework 是Netflix公司开发一款连接zookeeper服
         务的框架，通过封装的一套高级API 简化了ZooKeeper的操作，提供了比较全面的功能，
